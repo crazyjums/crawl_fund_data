@@ -6,12 +6,12 @@
 ![代码结构图](https://cdn.jsdelivr.net/gh/crazyjums/crawl_fund_data@master/621273-5866743b51461e55.png)
 
 代码目录结构：   
-![代码目录结构](https://upload-images.jianshu.io/upload_images/621273-968868daae5c0dd4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![代码目录结构](https://cdn.jsdelivr.net/gh/crazyjums/crawl_fund_data@master/621273-968868daae5c0dd4.png)
 
 
 
 结果图：   
-![结果图](https://upload-images.jianshu.io/upload_images/621273-47c43f78bd151981.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![结果图](https://cdn.jsdelivr.net/gh/crazyjums/crawl_fund_data@master/621273-47c43f78bd151981.png)
 
 ### 2 数据源网站
 [https://www.dayfund.cn/incrank.html](https://www.dayfund.cn/incrank.html)
